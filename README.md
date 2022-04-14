@@ -19,6 +19,9 @@ I used the "setAccounts" function in order to define the authorized Ethereum add
 
 ![Dummy accounts](https://user-images.githubusercontent.com/93611442/163311389-b8602e59-5feb-479d-964a-41b6aa4377b8.jpg)  
 
+![Setting_Accounts](https://user-images.githubusercontent.com/93611442/163312672-7749dd8c-6234-4f41-850b-2a8ffd762c21.jpg)
+
+
 ##### Execution Results  
 *Transaction 1: Send 1 ether as wei*  
 ![Transaction_1](https://user-images.githubusercontent.com/93611442/163311588-bc5b4725-a23d-4781-bc36-1926c93e16b9.jpg)  
