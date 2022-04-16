@@ -6,14 +6,14 @@ Let's say I work for a fintech startup company. This company is disrupting the f
 
 To automate the creation of joint savings accounts, I created a Solidity smart contract that accepts two user addresses. These addresses are able to control a joint savings account. This smart contract uses ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features consist of the ability to deposit and withdraw funds from the account.  
 
-#### Step 1: Creating a Joint Savings Account Contract in Solidity  
+### Step 1: Creating a Joint Savings Account Contract in Solidity  
 ![Step 1_1](https://user-images.githubusercontent.com/93611442/163310050-c9344cfb-c1b8-45ee-80c0-4181775083d1.jpg)  
 ![Step 1_2](https://user-images.githubusercontent.com/93611442/163310077-b8a6ff6d-d026-4e6e-9fbd-55818633f869.jpg)  
 
-#### Step 2: Compiling and Deploying the Contract in the JavaScript VM  
+### Step 2: Compiling and Deploying the Contract in the JavaScript VM  
 After reviewing the code and making the necessary changes, I compiled my smart contract. Then I navigated to the “Deploy & Run Transactions” pane and deployed it successfully.  
 
-#### Step 3: Interacting with My Deployed Smart Contract  
+### Step 3: Interacting with My Deployed Smart Contract  
 Now that my contract is deployed, it’s time to test its functionality!  
 I used the "setAccounts" function in order to define the authorized Ethereum address that would be able to withdraw funds from my contract and then used the following dummy Ethereum addresses as account1 address and account2 address:  
 
@@ -22,7 +22,7 @@ I used the "setAccounts" function in order to define the authorized Ethereum add
 ![Setting_Accounts](https://user-images.githubusercontent.com/93611442/163312672-7749dd8c-6234-4f41-850b-2a8ffd762c21.jpg)
 
 
-##### Execution Results  
+#### Execution Results  
 *Transaction 1: Send 1 ether as wei*  
 ![Transaction_1](https://user-images.githubusercontent.com/93611442/163311588-bc5b4725-a23d-4781-bc36-1926c93e16b9.jpg)  
 
